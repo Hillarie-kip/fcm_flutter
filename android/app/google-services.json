@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1779389754",
+    "project_id": "maqa-91540",
+    "storage_bucket": "maqa-91540.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1779389754:android:70385e7c53c5b3ddb22c03",
+        "android_client_info": {
+          "package_name": "com.esquekenya.maqao_fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1779389754-9feu4lg0qs9e60s3kk6krc5v2vtun7hb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADzqh9nAY4Kbh9ylIrWQBHlct-vsWDdeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1779389754-9feu4lg0qs9e60s3kk6krc5v2vtun7hb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
